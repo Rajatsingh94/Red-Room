@@ -1,3 +1,3 @@
 # Red-Room
 
- -Angular based Chat Messanger
+ -Angular based Chat Messanger APP
